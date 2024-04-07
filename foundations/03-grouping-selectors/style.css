@@ -1,14 +1,14 @@
-.adjust-font {
+.one, .two {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-#one {
+.one {
     background-color: #000000;
     color: #ffffff;
     font-weight: bold;
 }
 
-#two {
+.two {
     background-color: #f0f000;
 }
